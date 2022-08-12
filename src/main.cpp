@@ -4,7 +4,7 @@
  *  Project 01-blink_02
  *      Blinks internal and external LED outphased
  *      Changes blink frequency by pushing a key
- *      Tact switch connected to +VDD so must engage pullup resistor
+ *      Tact switch connected to +VDD so must engage pulldown resistor
  *          and result from digitalRead reversed respect 01-blink_01 project
  *      Prints delay in milliseconds
  *      Austral 2022 - IntroCom - EAM
