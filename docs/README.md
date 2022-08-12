@@ -23,7 +23,7 @@
 
         Between both power supply rails (red and blue, a capacitor in order to filter 3V3 power supply
 
-##      Photo
+##      Photos
 
         Project in protoboard
         https://photos.google.com/share/AF1QipO3e0LbaQCwkeR1ywmxVdux3F9V7EHQmCXPVe3GB0lqdc6Lidu0RV2T4TGXIzOEEA/photo/AF1QipOrCa3gzhmBVk9fVulue4UR3FWq9aidRIAxKkYV?key=THhtRlpXWlM2STJyRkRmYnJxZ1AxTndXNVpGU0tB
