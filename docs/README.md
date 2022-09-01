@@ -23,16 +23,4 @@
 
         Between both power supply rails (red and blue, a capacitor in order to filter 3V3 power supply
 
-##      Photos
-
-        Project in protoboard
-        https://photos.google.com/share/AF1QipO3e0LbaQCwkeR1ywmxVdux3F9V7EHQmCXPVe3GB0lqdc6Lidu0RV2T4TGXIzOEEA/photo/AF1QipOrCa3gzhmBVk9fVulue4UR3FWq9aidRIAxKkYV?key=THhtRlpXWlM2STJyRkRmYnJxZ1AxTndXNVpGU0tB
-
-        Box with jumper wires
-        https://photos.google.com/share/AF1QipPcr0KYejHoEmbeUch8h3sYyuUqcQM115dZgSEeJCSYr3s_jwvZzGDOPxwvxrChYw/photo/AF1QipPCydTby1NjVA_NjRWScywgn3VeMr3hrh24-r4V?key=SkhNZEVkLVQ2bFItQ1VkVWJHSXRCYlFzdWtVQXVn
-
-##      Video
-
-        Project in action
-        https://photos.google.com/share/AF1QipOsdf2TRANzSX4846X390EyqhDRacq5VucXN6KoPyHSbU2Zo93a9u40ZOPcg2P9vA/photo/AF1QipPLt7hVE7z0BALq851KfM0nVlkURhFkRnRH80NF?key=R24xM0FVbDB1ZnJOcUhTWXBRR0RLUFY2cEgyanlR
 
